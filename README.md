@@ -2,8 +2,7 @@
 
 ## 📌 Overview
 
-This repository contains a structured collection of **C# programming tasks** designed for **university students**.
-The goal of this repository is to help students gradually build their knowledge from **basic C# concepts** to **advanced topics**, including **Windows Forms**, **Object-Oriented Programming**, **Design Patterns**, **Algorithms**, and **Database integration**, ending with a **final practical project**.
+This repository contains a structured collection of alternative C# task examples designed for university students. The main purpose of this repository is to provide additional and alternative examples related to the task topics given to students, helping them better understand the subjects covered in class. The examples span from basic C# concepts to advanced topics, including Windows Forms, Object-Oriented Programming, Design Patterns, Algorithms, and Database integration, and can be used as reference materials alongside coursework.
 
 The tasks are divided into **modules**, and each module focuses on a specific topic area.
 
